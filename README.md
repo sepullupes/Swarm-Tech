@@ -8,7 +8,8 @@
 
 *A Product Portfolio by NorthPeak*
 
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg?style=flat-square)](LICENSE)
+[![Protected](https://img.shields.io/badge/Patterns-Protected-important?style=flat-square)](PROTECTED_PATTERNS.md)
 [![Portfolio](https://img.shields.io/badge/Products-7-orange?style=flat-square)](README.md)
 [![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=flat-square)](README.md)
 
@@ -39,6 +40,17 @@
 **Swarm Tech** is a comprehensive suite of innovative software solutions designed to empower businesses with cutting-edge technology. Our portfolio spans across web operating systems, workforce management, booking platforms, corporate VPN networks, AI-powered automation, and intelligent communication systems.
 
 Developed by **NorthPeak** (northpeak.app), our mission is to deliver scalable, production-ready applications that solve real-world business challenges using modern technology stacks and best practices.
+
+## ⚠️ IMPORTANT - PROPRIETARY LICENSE
+
+**This repository contains PROTECTED intellectual property.**
+
+- All architectural patterns, blueprints, and designs are proprietary and require permission to use
+- Source code viewing is permitted for educational purposes only
+- Commercial use, distribution, or pattern replication requires explicit written permission
+- See [LICENSE](LICENSE) for full terms and [PROTECTED_PATTERNS.md](PROTECTED_PATTERNS.md) for details
+
+**For licensing inquiries:** support@northpeak.app
 
 ---
 
@@ -533,21 +545,38 @@ For enterprise support, custom development, or consulting services:
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+**Copyright (C) 2025 Ahmad Syaiful Bin Rusli / Northpeak Enterprise. All Rights Reserved.**
 
-### Individual Product Licenses
+This project is licensed under the **Swarm-Tech Proprietary License** - see the [LICENSE](LICENSE) file for full details.
 
-All products in the Swarm Tech portfolio are released under the MIT License unless otherwise specified in their individual directories.
+### 🔒 Proprietary & Protected
 
-```
-MIT License
+**This is NOT open-source software.** All architectural patterns, product blueprints, design methodologies, and implementation strategies are proprietary intellectual property.
 
-Copyright (c) 2024-2025 NorthPeak (northpeak.app)
+#### What You CAN Do:
+- ✅ View source code for educational purposes
+- ✅ Study the architecture and patterns for learning
+- ✅ Fork for personal learning and experimentation
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
+#### What You CANNOT Do (Without Permission):
+- ❌ Use patterns or blueprints in commercial projects
+- ❌ Replicate the architectural designs
+- ❌ Distribute or sublicense the software
+- ❌ Create derivative works for commercial use
+
+#### Requesting Permission
+
+For commercial licensing, pattern usage rights, or custom agreements:
+
+**Contact:** support@northpeak.app
+**Subject:** "Swarm-Tech License Permission Request"
+**Details:** See [PROTECTED_PATTERNS.md](PROTECTED_PATTERNS.md) for what requires permission
+
+### Protected Elements
+
+All protected patterns and blueprints are documented in [PROTECTED_PATTERNS.md](PROTECTED_PATTERNS.md).
+
+**See [LICENSE](LICENSE) for complete terms and conditions.**
 
 ---
 
