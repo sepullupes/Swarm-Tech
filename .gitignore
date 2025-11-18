@@ -1,3 +1,4 @@
 # Exclude northpeak folder
 northpeak/
 Backup/
+.claude/
